@@ -1,0 +1,10 @@
+name = Views Tabbed Content
+description = Shows views rows as accordian, horizontal tabs, or vertical_tabs
+
+core = 7.x
+dependencies[] = views
+package = Views
+
+files[] = includes/views_plugin_style_accordian_tabs.inc
+files[] = includes/views_plugin_style_horizontal_tabs.inc
+files[] = includes/views_plugin_style_vertical_tabs.inc
