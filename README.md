@@ -1,3 +1,5 @@
+**Drupal 7**
+
 # Views Tabbed Content
 
 ## Summary
