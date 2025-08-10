@@ -1,19 +1,20 @@
+# Views Tabbed Content
 
--- SUMMARY --
+## Summary
 
 The Views Tabbed Content module adds accordion, horizontal_tabs, and vertical_tabs row plugin to views, all in one module.
 
--- REQUIREMENTS --
+## Requirements
 
-views.
+* `views` module.
 
 
--- INSTALLATION --
+## Installation
 
 * Install as usual, see http://drupal.org/node/70151 for further information.
 
 
--- USAGE --
+## Usage
 
 * While creating view choose a display format OR Update the display
   format of the existing view.
